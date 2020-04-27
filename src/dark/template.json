@@ -222,7 +222,7 @@
       "name": "Variable names",
       "scope": ["entity.name.variable", "variable"],
       "settings": {
-        "foreground": "{{ syntax.cranberry }}{{ alpha.high }}"
+        "foreground": "{{ syntax.gray }}{{ alpha.high }}"
       }
     },
     {
